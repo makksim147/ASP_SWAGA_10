@@ -1,0 +1,1407 @@
+[
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Cart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.CartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Cart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateCartDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.CartDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Cart/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.CartDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Cart/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateCartDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Cart/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchCartDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Cart/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Cartitem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.CartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Cartitem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateCartitemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.CartitemDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Cartitem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.CartitemDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Cartitem/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateCartitemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Cartitem/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchCartitemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCartitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Cartitem/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.CategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Category",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateCategoryDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.CategoryDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.CategoryDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateCategoryDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchCategoryDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.CategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchCategoryDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Category/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.InfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Infoproduct",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.InfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.InfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Infoproduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateInfoproductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.InfoproductDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.InfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Infoproduct/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.InfoproductDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.InfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Infoproduct/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateInfoproductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.InfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Infoproduct/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchInfoproductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.InfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchInfoproductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Infoproduct/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Order",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.OrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateOrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.OrderDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.OrderDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateOrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchOrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrderDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Order/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Ordersitem",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.OrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Ordersitem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateOrdersitemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.OrdersitemDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Ordersitem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.OrdersitemDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Ordersitem/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateOrdersitemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Ordersitem/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchOrdersitemDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.OrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchOrdersitemDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Ordersitem/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.ProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.ProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.ProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.ProductDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.ProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.ProductDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.ProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.ProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.ProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchProductDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.ReservationController",
+    "Method": "GetAll",
+    "RelativePath": "api/Reservation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.ReservationDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.ReservationController",
+    "Method": "Reserve",
+    "RelativePath": "api/Reservation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.ReserveProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.ReservationDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 409
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.ReservationController",
+    "Method": "GetById",
+    "RelativePath": "api/Reservation/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.ReservationDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.ReservationController",
+    "Method": "Cancel",
+    "RelativePath": "api/Reservation/{id}/cancel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.ReservationDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.RoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/Role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.RoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.RoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/Role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.RoleDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.RoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/Role/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.RoleDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.RoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/Role/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.RoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/Role/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.RoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchRoleDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/Role/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.UserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetAll",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ASPNET_SWAGA.Models.DTO.UserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.UserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Create",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.CreateDTO.CreateUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.UserDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.UserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "GetById",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ASPNET_SWAGA.Models.DTO.UserDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.UserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Update",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.UpdateDTO.UpdateUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.UserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Patch",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ASPNET_SWAGA.Models.PatchDTO.PatchUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPNET_SWAGA.Controllers.CrudControllerBase\u00604[[ASPNET_SWAGA.Models.DTO.UserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.CreateDTO.CreateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.UpdateDTO.UpdateUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[ASPNET_SWAGA.Models.PatchDTO.PatchUserDTO, ASPNET_SWAGA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+    "Method": "Delete",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

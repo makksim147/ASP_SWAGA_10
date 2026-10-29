@@ -1,0 +1,14 @@
+@ASPNET_SWAGA_HostAddress = http://localhost:5056
+
+### Список товаров (пагинация + заголовок X-Total-Count)
+GET {{ASPNET_SWAGA_HostAddress}}/api/Product?page=1&pageSize=5
+Accept: application/json
+
+### Зарезервировать товар (201 / 409 если не хватает остатка)
+POST {{ASPNET_SWAGA_HostAddress}}/api/Reservation
+Content-Type: application/json
+
+{ "idUser": 1, "idProducts": 1, "countItems": 2 }
+
+### Отменить резервацию (200 / 404 если активной нет)
+POST {{ASPNET_SWAGA_HostAddress}}/api/Reservation/1/cancel
