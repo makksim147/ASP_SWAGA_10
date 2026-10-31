@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNET_SWAGA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b18f72a81856064dc2ca67fb24df3c430689889a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNET_SWAGA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNET_SWAGA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

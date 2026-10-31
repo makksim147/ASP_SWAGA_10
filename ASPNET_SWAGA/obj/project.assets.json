@@ -4315,11 +4315,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
+      "projectUniqueName": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
       "projectName": "ASPNET_SWAGA",
-      "projectPath": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
+      "projectPath": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
       "packagesPath": "C:\\Users\\3mmma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\obj\\",
+      "outputPath": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

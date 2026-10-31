@@ -1,6 +1,4 @@
 namespace ASPNET_SWAGA.Common;
-
-/// <summary>Тип ошибки бизнес-логики. Сервисы ничего не знают про HTTP — перевод в статус-коды делает контроллер.</summary>
 public enum ServiceError
 {
     None,

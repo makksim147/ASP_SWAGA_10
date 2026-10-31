@@ -35,8 +35,7 @@ public partial class AspNetContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    // Строка подключения настраивается в Program.cs (из appsettings.json), здесь ничего не нужно.
-
+    
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Cart>(entity =>
@@ -162,7 +161,6 @@ public partial class AspNetContext : DbContext
                 .HasForeignKey(d => d.IdInfoProducts)
                 .HasConstraintName("FK__PRODUCTS__ID_Inf__5BE2A6F2");
 
-            // Остаток — токен конкурентности: два параллельных резервирования не смогут оба списать один и тот же остаток.
             entity.Property(e => e.StockCount).IsConcurrencyToken();
         });
 

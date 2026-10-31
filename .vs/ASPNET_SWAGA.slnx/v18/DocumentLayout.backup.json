@@ -1,293 +1,297 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\",
+  "WorkspaceRootPath": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\aspnetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\aspnetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\aspnetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\updatedto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\updatedto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\patchdto\\patchproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\patchdto\\patchproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\patchdto\\patchcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\patchdto\\patchcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\aspnet_swaga.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\aspnet_swaga.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\ordersitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\ordersitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\ordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\ordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\iordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\infoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\infoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\iinfoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iinfoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\dto\\infoproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\infoproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\dto\\ordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\ordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\reserveproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\reserveproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\updatedto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\updatedto\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\patchdto\\patchproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\patchdto\\patchproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\patchdto\\patchcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\patchdto\\patchcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\aspnet_swaga.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\aspnet_swaga.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\ordersitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\ordersitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\ordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\ordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\iordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iordersitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\infoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\infoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\iinfoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\iinfoproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\dto\\infoproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\infoproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\dto\\ordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\ordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\reserveproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\reserveproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\models\\createdto\\createcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\models\\createdto\\createcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\ordersitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\ordersitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\ordersitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\infoproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\infoproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\infoproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\crudcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\crudcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\crudcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\common\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\common\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\common\\serviceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\downloads\\aspnet_swaga_layered\\aspnet_swaga\\aspnet_swaga\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|c:\\users\\3mmma\\source\\repos\\aspnet_swaga_10\\aspnet_swaga\\aspnet_swaga\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7783412A-3796-99B8-A211-BCE43E22CB48}|ASPNET_SWAGA\\ASPNET_SWAGA.csproj|solutionrelative:aspnet_swaga\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -298,15 +302,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ICrudService.cs",
+              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\ICrudService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ICrudService.cs",
+              "RelativeToolTip": "ASPNET_SWAGA\\Services\\ICrudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T17:22:33.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AspNetContext.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\AspNetContext.cs",
+              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\AspNetContext.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\AspNetContext.cs",
+              "RelativeToolTip": "ASPNET_SWAGA\\Models\\AspNetContext.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAmwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T18:50:12.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T18:57:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ReservationService.cs",
+              "RelativeToolTip": "ASPNET_SWAGA\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T19:26:11.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatchCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
+              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
+              "RelativeToolTip": "ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T19:35:11.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PatchProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchProductDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\PatchDTO\\PatchProductDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchProductDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchProductDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\PatchDTO\\PatchProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,49 +385,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PatchCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
-              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
-              "RelativeToolTip": "ASPNET_SWAGA\\Models\\PatchDTO\\PatchCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T19:35:11.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AspNetContext.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\AspNetContext.cs",
-              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\AspNetContext.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\AspNetContext.cs",
-              "RelativeToolTip": "ASPNET_SWAGA\\Models\\AspNetContext.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T18:50:12.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReservationService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ReservationService.cs",
-              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\ReservationService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ReservationService.cs",
-              "RelativeToolTip": "ASPNET_SWAGA\\Services\\ReservationService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T19:26:11.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UpdateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\UpdateDTO\\UpdateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\UpdateDTO\\UpdateCategoryDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\UpdateDTO\\UpdateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\UpdateDTO\\UpdateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\UpdateDTO\\UpdateCategoryDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\UpdateDTO\\UpdateCategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.Development.json",
               "RelativeToolTip": "ASPNET_SWAGA\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -380,11 +410,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.json",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\appsettings.json",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.json",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\appsettings.json",
               "RelativeToolTip": "ASPNET_SWAGA\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -393,11 +423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ASPNET_SWAGA.http",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.http",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.http",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\ASPNET_SWAGA.http",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.http",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.http",
               "RelativeToolTip": "ASPNET_SWAGA\\ASPNET_SWAGA.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -406,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Program.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Program.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Program.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Program.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Program.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +449,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\UserService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\UserService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\RoleService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\RoleService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\RoleService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\RoleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,11 +475,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\ProductService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\ProductService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -458,11 +488,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "OrdersitemService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrdersitemService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrdersitemService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\OrdersitemService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrdersitemService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrdersitemService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\OrdersitemService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -471,11 +501,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\OrderService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\OrderService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +514,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IUserService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -497,11 +527,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IRoleService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IRoleService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\IRoleService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IRoleService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\IRoleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IReservationService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IReservationService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\IReservationService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\IReservationService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\IReservationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -523,11 +553,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "CrudService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CrudService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CrudService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\CrudService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CrudService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CrudService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\CrudService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -536,11 +566,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CategoryService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -549,11 +579,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\CartService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,11 +592,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "CartitemService.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartitemService.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartitemService.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Services\\CartitemService.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartitemService.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Services\\CartitemService.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Services\\CartitemService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,11 +605,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -588,11 +618,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\RoleRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\RoleRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\RoleRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\RoleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -601,11 +631,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ReservationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ReservationRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\ReservationRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ReservationRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\ReservationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -614,11 +644,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\Repository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\Repository.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAwwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -627,11 +657,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -640,11 +670,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "OrdersitemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrdersitemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrdersitemRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\OrdersitemRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrdersitemRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrdersitemRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\OrdersitemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -653,11 +683,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\OrderRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -666,11 +696,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IUserRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,11 +709,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "IRoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRoleRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IRoleRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRoleRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IRoleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -692,11 +722,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "IReservationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IReservationRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IReservationRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IReservationRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IReservationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -705,11 +735,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "IOrdersitemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrdersitemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrdersitemRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IOrdersitemRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrdersitemRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrdersitemRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IOrdersitemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -718,11 +748,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IProductRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -731,11 +761,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -744,11 +774,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IOrderRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -757,11 +787,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "InfoproductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\InfoproductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\InfoproductRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\InfoproductRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\InfoproductRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\InfoproductRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\InfoproductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -770,11 +800,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICategoryRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -783,11 +813,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ICartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\ICartRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\ICartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -796,11 +826,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -809,11 +839,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "IInfoproductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IInfoproductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IInfoproductRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\IInfoproductRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IInfoproductRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\IInfoproductRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\IInfoproductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -822,11 +852,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CartRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\CartRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\CartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -835,11 +865,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "ICartitemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartitemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartitemRepository.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Repositories\\ICartitemRepository.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartitemRepository.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Repositories\\ICartitemRepository.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Repositories\\ICartitemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -848,11 +878,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Category.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -861,11 +891,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Role.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\Entities\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -874,11 +904,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\Entities\\Order.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -887,11 +917,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "InfoproductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\InfoproductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\InfoproductDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\DTO\\InfoproductDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\InfoproductDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\InfoproductDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\DTO\\InfoproductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -900,11 +930,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "OrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrderDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\DTO\\OrderDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrderDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\DTO\\OrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -913,11 +943,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "OrdersitemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrdersitemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrdersitemDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\DTO\\OrdersitemDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrdersitemDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\OrdersitemDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\DTO\\OrdersitemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -926,11 +956,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "RoleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\RoleDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\DTO\\RoleDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\RoleDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\DTO\\RoleDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -939,11 +969,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "CartitemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\CartitemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\CartitemDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\DTO\\CartitemDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\CartitemDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\DTO\\CartitemDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\DTO\\CartitemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -952,11 +982,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "CreateOrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrderDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrderDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrderDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -965,11 +995,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "CreateOrdersitemDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrdersitemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrdersitemDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrdersitemDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrdersitemDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrdersitemDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateOrdersitemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -978,11 +1008,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "ReserveProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\ReserveProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\ReserveProductDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\CreateDTO\\ReserveProductDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\ReserveProductDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\ReserveProductDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\CreateDTO\\ReserveProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -991,11 +1021,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "CreateUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateUserDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateUserDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateUserDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateUserDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1004,11 +1034,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "CreateProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateProductDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateProductDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateProductDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1017,11 +1047,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "CreateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCategoryDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateCategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1030,11 +1060,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "CreateCartDTO.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCartDTO.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateCartDTO.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCartDTO.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Models\\CreateDTO\\CreateCartDTO.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Models\\CreateDTO\\CreateCartDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1043,24 +1073,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "ASPNET_SWAGA\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T18:57:30.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\UserController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1069,11 +1086,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\RoleController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\RoleController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1082,11 +1099,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "ReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ReservationController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\ReservationController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ReservationController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\ReservationController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1095,11 +1112,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1108,11 +1125,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "OrdersitemController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrdersitemController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrdersitemController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\OrdersitemController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrdersitemController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrdersitemController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\OrdersitemController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1121,11 +1138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\OrderController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\OrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1134,11 +1151,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "InfoproductController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\InfoproductController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\InfoproductController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\InfoproductController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\InfoproductController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\InfoproductController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\InfoproductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1147,11 +1164,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\CartController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1160,11 +1177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "CrudControllerBase.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CrudControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CrudControllerBase.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\CrudControllerBase.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CrudControllerBase.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CrudControllerBase.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\CrudControllerBase.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1173,11 +1190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1186,11 +1203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "CartitemController.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartitemController.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartitemController.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\CartitemController.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartitemController.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\CartitemController.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\CartitemController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1199,11 +1216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "ApiControllerBase.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ApiControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ApiControllerBase.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Controllers\\ApiControllerBase.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ApiControllerBase.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Controllers\\ApiControllerBase.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Controllers\\ApiControllerBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1212,11 +1229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "ServiceResult.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\ServiceResult.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\ServiceResult.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Common\\ServiceResult.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\ServiceResult.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\ServiceResult.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Common\\ServiceResult.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1225,11 +1242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "PagedResult.cs",
-              "DocumentMoniker": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\PagedResult.cs",
               "RelativeDocumentMoniker": "ASPNET_SWAGA\\Common\\PagedResult.cs",
-              "ToolTip": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\Common\\PagedResult.cs",
               "RelativeToolTip": "ASPNET_SWAGA\\Common\\PagedResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

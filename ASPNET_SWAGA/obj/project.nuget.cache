@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFLQ+WxAzks=",
+  "dgSpecHash": "0JuYTM+DWVU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
+  "projectFilePath": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3mmma\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\3mmma\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
@@ -93,9 +93,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "У пакета \"AutoMapper\" 13.0.1 есть известная уязвимость https://github.com/advisories/GHSA-rvv3-g6hj-g44x (уровень серьезности: высокий уровень)",
-      "projectPath": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
+      "projectPath": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\3mmma\\Downloads\\ASPNET_SWAGA_layered\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
+      "filePath": "C:\\Users\\3mmma\\source\\repos\\ASPNET_SWAGA_10\\ASPNET_SWAGA\\ASPNET_SWAGA\\ASPNET_SWAGA.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
